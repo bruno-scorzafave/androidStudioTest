@@ -1,5 +1,7 @@
 # androidStudioTest
 
+Esse é apenas um projeto para excecução de testes e aprendizagem.
+
 TODO<br>
 Aprender testes unitários<br>
 Colocar esse projeto em Clean Architecture<br>
